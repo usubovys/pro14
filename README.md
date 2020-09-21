@@ -5,7 +5,7 @@
 Bikeshare Analysis
 
 ### Description
-Describe what your project is about and what it does
+The project sorts the data of bikeshare by date, cities etc.
 
 ### Files used
 Include the files used
